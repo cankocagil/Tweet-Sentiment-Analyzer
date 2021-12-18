@@ -1,1 +1,1 @@
-# EEE485/585 Project Progress Report
+# Twitter Sentiment Analyzer via "fully-scratch" Machine & Deep Learning
